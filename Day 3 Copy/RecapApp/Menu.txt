@@ -1,0 +1,6 @@
+~~~~~~~~~~~~~CALC PROGRAM~~~~~~~~~~~~~~~~~~~~~
+TO ADD 2 NUMBERS--------->PRESS +
+TO SUBTRACT-------------->PRESS -
+TO MULTIPLY-------------->PRESS *
+TO DIVIDE---------------->PRESS /
+PS: ANY OTHER VALUE IS CONSIDERED AS EXIT.......

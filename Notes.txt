@@ -1,0 +1,33 @@
+C++(VVI)
+PHP(IM)
+JavaScript, ES6, Nodejs, Jasmine, Angular.(IM)
+Java(VM)
+C#(VM)
+
+What is C++?
+Its a general purpose programming language that inherits lot of features from C and improvised it into a new way of App development called OOP. A Programming language designed to create various kinds of Applications: System, Application level, Micro level and programs that are created to solve specific needs of a certain group is Gen purpose Programming language. 
+Where are we using it?
+ Apple OS is written in C++. Windows 98 and WindowsXP is built in C++. 
+ Adobe Acrobat reader is built in C++. Visual Studio 6.0(2000) was built in C++. Amazon has built large scale E-Com b2b Apps in C++. Google Search Engine and Chromium Browser is built in C++. Over and above many of the Health care, Security and Airline apps are built using C++. C++ is used to develop lot of Desktop centric Apps that can interacted with other hardware devices across various domains. 
+Why to use C++?
+	High Performance and efficient App development, flexible programming language. Typically if U want to develop bigger apps with high performance and limited resources, then C++ is the programming language.
+Where to get C++?
+	C++ is available as free shipment for every OS that U use including Linux, Windows and AppleOS. Current version is C++14.
+	U need a compiler and an IDE to create and develop C++ programs. There are many freeware compilers and IDEs available. Popular are VIM(Linux), VS(Windows), SubLime and Notepad++(Open Source) and many more.     
+How to develop it?
+	Download the compiler and the IDE(Most  of the IDEs do come up with the C++ Compiler and the Runtime libraries to execute UR programs). 
+	Start developing it.
+Features of it?
+	It supports OOP(Object Oriented Programming) Paradigm. New C++ features include Garbage Collection(Automatic memory Management), Lambda Expressions and many more modern features that make real time apps.  
+	It contains 2 parts: The Core language and the SL(Standard Library). The Core language is responsible for developing the programs with the help of keywords and functions. The Standard library mainly based on STL(Standard Template library) provides a lot of tools and APIs to develop the Apps more efficiently, quickly and easily.
+Differences b/w C and C++:
+	C is more like a procedural programming language that dont support  classes and objects which is the main building blocks of C++ programs. U could consider C++ as Superset of C. Or C with classes.
+C was developed by Dennis Ritche in 1969 and C++ was developed by Bjarne Stroustrupin 1979, both from AT&T Bell Labs. 
+Most of the features of C can be implmented in C++ also but not the other way. 
+C is more like Procedural but C++ is both OOP and Procedural program
+Most of the coding in C is global and difficult to maintain after it reaches to some 75000 lines of code, whereas C++ is more modular in nature and usage of global functions is limited and could be easy to maintain even larger lines of code.
+C does not have any kind of Conceptual groupings like namespaces wheras C++ gives a finer way of organizing the code and maintaining it. 
+C expects to declare the variables at one step and once tha assignment begins U cannot declare the variables, these restrictions are not found in C++(Modern in nature).
+Exception handling is not properly done in C(Some dont even support it) but very well supported in C++ using try..catch segments. 
+Examples around it.
+When a CPP program is created, it follows the order: declare, assign/define and use.
