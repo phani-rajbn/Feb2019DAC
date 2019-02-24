@@ -1,0 +1,22 @@
+OOP Features of C++:
+OOP is a design paradigm that is based on the concept of objects. Each object is a data structure that contain data and functions to manipulate the data. In OOP, a classs is simply a blueprint or a template of certain functionalities that looks similar to a real world entity. Class purely contains the description of what data and methods are used by the object of this class. 
+OOP is based on a set of principles called as SOLID principles. All the features of OOP is based on the SOLID principles of OOAD.
+S->Single responsibility Principle
+O->Open Closed Principle. 
+L->Liskov's Substitution principle
+I->Interface Segragation Principle.
+D->Dependency Inversion Principle.
+Single Responsibility principle:Each class should have only one responsibility. If a change is expected, it should be for a single change not of multiple features. The classes are designed to perform one task and utmost changable to itself. This concept is what makes layered architecture in OOP. U design various classes in UR program instead one single class that does all the activities. This kind also makes the maintainability of UR App easy.. 
+Open-Closed Principle: A class is immutable. Once U create a class, it is closed for any further modification. But the class is always open for extension. This principle is what makes the feature of Inheritance followed by Runtime polymorphism(Method Overriding) and Compile Time Polymorphism(Method Overloading).
+Liskov's substitution Principle: Any base class variable can be substituted by its derived class. Due to this principle, U could retain the same object of the base class and instantiate to any of the derived classes and the object behaves in multiple ways based on the type to which it is instantiated.  
+Interface Segragation Principle: It is good to create simple concrete interfaces rather than big and abstract interface. Interfaces must be short and should be specific to the client that U work. This principle is the basis of MicroServices that are very popular in the market. It is better to create pieces of smaller systems instead of  a great monolith system.  This is achievable thro Composition instead of inheritance. object which contain different smaller objects.
+
+Dependency Inversion Principle: High level modules should not depend on low level modules, both should depend on their Abstractions. Abstractions should not depend upon the details. Details should depend on the Abstractions. In other words, UR functions must contain the dependency objects in the form of abstractions instead of details. 
+
+Constructors, Destructors
+Inheritance:
+Method overriding: Functions are re-implemented in the derived classes for modifying the existing functions of the base class. 
+There are some rules here: 
+The methods should be virtual functions. The methods are marked with a keyword called virtual. These methods have a sp way of being invoked thro function pointers(Pointers pointing to a function rather than a variable).
+The derived class must maintain the same signature of the method that is being overriden. Name of the method, its parameters as well as its return type should be same. If U modify the paramters, it becomes another form of method overloading. Method overriding helps in implementing runtime polymorphism.  
+virtual keyword is more like giving permission to the derived class to modify the function if required.
