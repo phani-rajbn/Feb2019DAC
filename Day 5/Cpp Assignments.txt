@@ -1,0 +1,22 @@
+CPP Assignments
+Write a program in C++ to find Size of fundamental data types.
+Write a program in C++ to check the upper and lower limits of integer. 
+Write a program in C++ to display various type or arithmetic operation using mixed data type.
+Write a program in C++ to check overflow/underflow during various arithmetical operation
+Write a program in C++ to swap two numbers.
+Write a program in C++ to calculate the volume of a sphere.
+Write a program in C++ to calculate the volume of a cylinder.
+Write a program in C++ to convert temperature in Celsius to Fahrenheit.
+Write a program in C++ that converts kilometers per hour to miles per hour
+Write a program in C++ to compute quotient and remainder
+Write a program in C++ to compute the total and average of four numbers.
+Write a C++ program to display the current date and time.
+Write a program in C++ that takes a number as input and prints its multiplication table upto 10
+Write a language program in C++ which accepts the user's first and last name and print them in reverse order with a space between them. 
+Write a program in C++ to enter P, T, R and calculate Compound Interest.
+Write a C++ program which prints three highest numbers from a list of numbers in descending order.
+Write a C++ program to replace all the lower-case letters of a given string with the corresponding capital letters.
+Write a C++ program that accepts sales unit price and sales quantity of various items and compute total sales amount and the average sales quantity. All input values must greater than or equal to 0 and less than or equal to 1,000, and the number of pairs of sales unit and sales quantity does not exceed 100. If a fraction occurs in the average of the sales quantity, round the first decimal place.
+Write a C++ program to display all the leap years between two given years. If there is no leap year in the given period,display a suitable message
+Write a program that takes two arguments at the command line, both strings. The program checks to see whether or not the second string is a substring of the first (without using the substr -- or any other library -- function)
+write a program to display all possible permutations of a given input string
